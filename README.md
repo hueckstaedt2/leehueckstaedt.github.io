@@ -1,49 +1,192 @@
-# leehueckstaedt.github.io
-Dedicated Information Technology professional with a 3.9 GPA and hands-on experience in cybersecurity, networking, and web development. U.S. Army Veteran with proven leadership and discipline, passionate about building secure, user-friendly digital solutions and advancing modern IT systems.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lee Hueckstaedt | Information Technology Professional</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style.css">
+</head>
 
-# 👋 Hi, I’m Lee Hueckstaedt
+<body>
+    <header class="site-header">
+        <div class="container">
+            <h1 class="name">Lee Hueckstaedt</h1>
+            <p class="tagline">Information Technology • Web Design • Cybersecurity</p>
 
-**Information Technology Professional | Cybersecurity | Networking | Web Design | U.S. Army Veteran**
+            <div class="contact">
+                <a href="mailto:Hueckstaedtlee@gmail.com">Hueckstaedtlee@gmail.com</a> · 
+                <span>Brookfield, WI</span> · 
+                <a href="https://www.linkedin.com/in/lee-hueckstaedt-623868298" target="_blank">LinkedIn</a> ·
+                <span>715-892-9883</span>
+            </div>
+        </div>
+    </header>
 
----
+    <main class="container">
 
-### 🧠 About Me
-I’m an IT professional with a **3.9 GPA** at the University of Wisconsin–Milwaukee, pursuing a **B.S. in Information Technology** (Expected March 2026).  
-I specialize in **cybersecurity, network systems, and web development**, and I’m passionate about building secure, user-friendly digital experiences.  
-As a former **U.S. Army Sergeant**, I bring leadership, teamwork, and discipline to every project.
+        <!-- SUMMARY -->
+        <section>
+            <h2>Professional Summary</h2>
+            <p>
+                Motivated and disciplined IT professional with a 3.9 GPA and hands-on experience in 
+                web design, cybersecurity, and network systems. Former U.S. Army Sergeant with proven 
+                leadership overseeing a 10-member squad in high-pressure environments. Passionate 
+                about building responsive, user-friendly webpages and developing secure digital 
+                solutions that combine accessibility, performance, and strong technical design.
+            </p>
+        </section>
 
----
+        <!-- EDUCATION -->
+        <section>
+            <h2>Education</h2>
 
-### ⚙️ Tech Stack
-- **Languages & Frameworks:** HTML5, CSS3, JavaScript  
-- **Cybersecurity Tools:** Kali Linux, Nmap, Metasploitable, Bettercap, Wireshark  
-- **Networking:** TCP/IP, DNS, DHCP, Cisco Routers, EIGRP  
-- **Software & Systems:** VirtualBox, VMware, GitHub, Windows, Linux  
+            <div class="item">
+                <h3>Bachelor of Science in Information Technology</h3>
+                <p class="item-location">University of Wisconsin–Milwaukee</p>
+                <p class="item-dates">Expected Graduation: March 2026 | GPA: 3.9</p>
+            </div>
 
----
+            <div class="item">
+                <h3>Associate’s Degree in Criminal Justice</h3>
+                <p class="item-location">Nicolet Area Technical College – Rhinelander, WI</p>
+            </div>
+        </section>
 
-### 🧩 Featured Projects
-**🔹 HandScribe (Senior Capstone Project)**  
-Developing an ASL-to-Text mobile app that converts real-time sign language into written text using AI and avatar translation.
+        <!-- INTERNSHIP -->
+        <section>
+            <h2>Internship</h2>
+            <div class="item">
+                <h3>Ovation Jewish Home – IT Department</h3>
+                <p class="item-dates">Spring 2024 | Milwaukee, WI</p>
+                <ul>
+                    <li>Supported daily IT operations, troubleshooting hardware, software, and connectivity issues.</li>
+                    <li>Assisted in network infrastructure upgrades and workstation rollouts.</li>
+                    <li>Collaborated with senior technicians to improve data management and internal systems.</li>
+                </ul>
+            </div>
+        </section>
 
-**🔹 Non-profIT Project**  
-Collaborated with a nonprofit to improve digital accessibility and create secure, responsive websites tailored for community engagement.
+        <!-- MILITARY -->
+        <section>
+            <h2>Military Experience</h2>
 
----
+            <div class="item">
+                <h3>U.S. Army – 4th Infantry Division</h3>
+                <p class="item-dates">Sergeant | Infantry (MOS) | 2004–2009</p>
+                <p>Deployment: Iraq (2006)</p>
 
-### 🎖 Military Experience
-**U.S. Army – 4th Infantry Division (2004–2009)**  
-- Rank: **Sergeant** | Role: Infantry | Deployed to **Iraq (2006)**  
-- Led a 10-member squad in high-pressure environments  
-- **Awards:** Purple Heart, Army Commendation Medal, Global War on Terrorism Service Medal, Combat Infantry Badge
+                <ul>
+                    <li>Led a 10-member squad in tactical operations, logistics, and field communications.</li>
+                    <li>Trained and mentored soldiers in teamwork, safety, and mission execution.</li>
+                </ul>
 
----
+                <h4>Awards & Honors</h4>
+                <ul>
+                    <li>Purple Heart</li>
+                    <li>Combat Infantry Badge</li>
+                    <li>Iraq Campaign Medal</li>
+                    <li>Operation Enduring Freedom Badge</li>
+                    <li>Army Commendation Medal</li>
+                    <li>Army Good Conduct Medal</li>
+                    <li>Global War on Terrorism Service Medal</li>
+                    <li>National Defense Service Medal</li>
+                    <li>Army Service Ribbon</li>
+                    <li>Overseas Service Ribbon</li>
+                    <li>Expert Rifle Marksmanship Badge (40/40)</li>
+                    <li>Driver & Mechanic Badge</li>
+                </ul>
+            </div>
+        </section>
 
-### 📫 Connect With Me
-📧 [Hueckstaedtlee@gmail.com](mailto:Hueckstaedtlee@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/lee-hueckstaedt-623868298/)  
-🌍 [Portfolio Website](https://leehueckstaedt.github.io) *(Coming Soon!)*  
+        <!-- PROJECTS -->
+        <section>
+            <h2>Projects</h2>
 
----
+            <div class="item">
+                <h3>HandScribe (Senior Capstone Project)</h3>
+                <ul>
+                    <li>Developing an ASL-to-text mobile app with real-time sign recognition and animated avatar translation.</li>
+                    <li>Working with a four-person team on UI design, front-end development, and system integration.</li>
+                </ul>
+            </div>
 
-> _“Technology is best when it brings people together — securely and efficiently.”_
+            <div class="item">
+                <h3>Non-profIT Project</h3>
+                <ul>
+                    <li>Collaborated on a class project providing IT support for nonprofit organizations.</li>
+                    <li>Helped analyze client needs, design secure websites, and recommend technology improvements to strengthen community engagement.</li>
+                </ul>
+            </div>
+        </section>
+
+        <!-- COURSEWORK -->
+        <section>
+            <h2>Relevant Coursework</h2>
+            <ul class="two-column">
+                <li>Web Design I & II</li>
+                <li>Web Application Development</li>
+                <li>Information Security I</li>
+                <li>Ethical Hacking I</li>
+                <li>Cisco Routing & Switching I</li>
+                <li>Database & Information Retrieval Systems</li>
+                <li>Systems Analysis</li>
+                <li>Human Factors in Information Seeking</li>
+                <li>Project Teams</li>
+                <li>Senior Capstone</li>
+            </ul>
+        </section>
+
+        <!-- SKILLS -->
+        <section>
+            <h2>Technical Skills</h2>
+
+            <div class="skills-grid">
+                <ul>
+                    <li>TCP/IP, DNS, DHCP</li>
+                    <li>Cisco Routers, EIGRP</li>
+                    <li>Kali Linux, Nmap</li>
+                    <li>Metasploitable, Bettercap</li>
+                    <li>Wireshark</li>
+                </ul>
+
+                <ul>
+                    <li>HTML5, CSS3, JavaScript</li>
+                    <li>Responsive Design</li>
+                    <li>GitHub</li>
+                    <li>VirtualBox, VMware</li>
+                    <li>Windows & Linux Systems</li>
+                </ul>
+
+                <ul>
+                    <li>Leadership</li>
+                    <li>Teamwork</li>
+                    <li>Problem-Solving</li>
+                    <li>Adaptability</li>
+                    <li>Analytical Thinking</li>
+                </ul>
+            </div>
+        </section>
+
+        <!-- INTERESTS -->
+        <section>
+            <h2>Professional Interests</h2>
+            <p>
+                Driven to advance in cybersecurity, network defense, and web development. Enthusiastic about designing 
+                functional, visually appealing, and secure webpages that improve accessibility and user experience.
+            </p>
+        </section>
+
+    </main>
+
+    <footer class="site-footer">
+        <div class="container">
+            <p>&copy; <span id="year"></span> Lee Hueckstaedt</p>
+        </div>
+
+        <script>
+            document.getElementById('year').textContent = new Date().getFullYear();
+        </script>
+    </footer>
+
+</body>
+</html>
